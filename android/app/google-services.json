@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "17671064539",
+    "project_id": "mingo-7c8a3",
+    "storage_bucket": "mingo-7c8a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17671064539:android:031c696393014bfc9175fe",
+        "android_client_info": {
+          "package_name": "com.example.mingo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17671064539-vq6ogj60lkai7cvk2jdg3l60ffqk0lks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3-TMfkx7mxfelOBdaYQGkVK9yu9V3yaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17671064539-vq6ogj60lkai7cvk2jdg3l60ffqk0lks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
