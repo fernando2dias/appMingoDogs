@@ -1,5 +1,5 @@
 class Ingredient {
-  int id;
+  String id;
   String item;
   double additionalPrice;
 
